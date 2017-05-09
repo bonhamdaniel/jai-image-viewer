@@ -14,9 +14,9 @@ Following installation of the API, it's JARs must be added to the build path.  I
 7. Add the “jai_codec”, “jai_core”, and “mlibwrapper_jai” JARs to the project build path.
 
 Usage:
-o	A default image is provided
-o	The “Zoom In”, “Zoom Out”, and “Reset Image” buttons can be used to resize the image, as desired.  The image is allowed to be zoomed in   10 times, and can be zoomed back out until it reaches its original size.
-o	Scrollbars are provided to navigate to sections of the image that are not within the viewing region.
-o	There is a “File” menu provided, from which an “Open File” menu item can be chosen to load a new image in the Image Viewer.
-o	There is a “File” menu provided, from which an “Exit” menu item can be chosen to exit the program.
-o	The window can be resized; the image will remain in the upper left corner of the viewer.
+- A default image is provided
+- The “Zoom In”, “Zoom Out”, and “Reset Image” buttons can be used to resize the image, as desired.  The image is allowed to be zoomed in   10 times, and can be zoomed back out until it reaches its original size.
+- Scrollbars are provided to navigate to sections of the image that are not within the viewing region.
+- There is a “File” menu provided, from which an “Open File” menu item can be chosen to load a new image in the Image Viewer.
+- There is a “File” menu provided, from which an “Exit” menu item can be chosen to exit the program.
+- The window can be resized; the image will remain in the upper left corner of the viewer.
