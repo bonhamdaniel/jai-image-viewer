@@ -13,7 +13,7 @@ import javax.media.jai.*;
 import com.sun.media.jai.widget.DisplayJAI;
 
 public class ImageViewer extends JPanel implements ActionListener {	
-	static JFrame frame = new JFrame("COMP 435 TME1: JAI Image Viewer"); // Creates JFrame, with title, to contain Image Viewer
+	static JFrame frame = new JFrame("JAI Image Viewer"); // Creates JFrame, with title, to contain Image Viewer
 	JPanel contentPane = new JPanel(new BorderLayout()); // Creates JPanel to contain images
     JMenuItem openFile, exit; // Options for File menu
     JButton zoomIn, zoomOut, normal; // Buttons for zooming options
